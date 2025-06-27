@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "brand": "Toyota",
+      "year": 2022,
+      "color": "black",
+      "price": 45000,
+      "availability": "in_stock"
+    },
+    {
+      "brand": "Audi",
+      "year": 2021,
+      "color": "red",
+      "price": 105000,
+      "availability": "pre_order"
+    },
+    {
+      "brand": "Skoda",
+      "year": 2012,
+      "color": "silver",
+      "price": 25000,
+      "availability": "in_stock"
+    },
+    {
+      "brand": "Chevrolet",
+      "year": 2015,
+      "color": "black",
+      "price": 35000,
+      "availability": "in_stock"
+    }
+  ]
+}
